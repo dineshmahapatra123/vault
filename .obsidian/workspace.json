@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01e1d4c860bebc7c",
+        "id": "06133d7a65ca32b8",
         "type": "tabs",
         "children": [
           {
-            "id": "9013cfc0806bea4c",
+            "id": "8c9ccf14d7ee4fa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-productivity-tracker/daily-log.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "daily-log"
+              "title": "New tab"
             }
           }
         ]
@@ -234,17 +230,19 @@
       "lean-terminal:Toggle Terminal": false
     }
   },
-  "active": "9013cfc0806bea4c",
+  "active": "8c9ccf14d7ee4fa2",
   "lastOpenFiles": [
+    "Getting Started/tolaria.md",
+    "Getting Started/CLAUDE.md",
+    "daily-productivity-tracker/daily-log.md",
+    "AGENTS.md",
     "daily-productivity-tracker/daily-productivity-tracker.md",
     "daily-productivity-tracker/habits-tracker.md",
     "daily-productivity-tracker/time-blocking-strategy.md",
     "daily-productivity-tracker/weekly-review.md",
-    "daily-productivity-tracker/daily-log.md",
     "assistant.md",
     "manager.md",
     "daily-productivity-tracker",
-    "Getting Started/CLAUDE.md",
     "CLAUDE.md",
     "april-financial-plan/family-budget-review-april.md",
     "april-financial-plan/april-travel-budget.md",
@@ -261,8 +259,6 @@
     "raw/notes/on-creative-process-baldwin.md",
     "wiki/concepts/aloneness-as-creative-condition.md",
     "wiki/concepts/infrastructure-safety-correlation.md",
-    "Getting Started/wiki-note.md",
-    "wiki/concepts/leadership-crowd-lab-model.md",
     "Clippings",
     "april-financial-plan",
     "Getting Started/attachments/1776673161755-CleanShot_2026-04-20_at_10.17.53_2x.png",
