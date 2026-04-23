@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Augmentation vs. Automation
 
 ## Definition
@@ -21,7 +24,7 @@ Generative AI offers productivity gains that make automation tempting (e.g., cut
 - [[ethan-mollick]]
 
 ## Sources
-- [[the-it-department-where-ai-goes-to-die]] (Economist, 2026)
+- `raw/articles/The IT department Where AI goes to die.md` (Economist, 2026)
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

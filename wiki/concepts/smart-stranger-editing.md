@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Smart-Stranger Editing
 
 ## Definition
@@ -20,7 +23,7 @@ A writer in the "thick of it" is often unable to see redundant phrases, show-off
 - [[magical-thinking-in-writing]] — The state of mind that *prevents* effective editing during the first draft.
 
 ## Sources
-- [[that-crafty-feeling]] (Zadie Smith, 2008)
+- `raw/articles/That Crafty Feeling.md` (Zadie Smith, 2008)
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

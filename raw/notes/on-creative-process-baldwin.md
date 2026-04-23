@@ -1,5 +1,5 @@
 ---
-type: my-note
+type: Note
 source: raw/articles/The Creative Process by James Baldwin.md
 author-of-source: James Baldwin
 date: 2026-04-05

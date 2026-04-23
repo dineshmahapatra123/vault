@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started/walkthroughs.md",
+                "file": "april-financial-plan/april-financial-plan.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "walkthroughs"
+              "title": "april-financial-plan"
             }
           }
         ]
@@ -236,8 +236,34 @@
   },
   "active": "6040ff4bb57b962a",
   "lastOpenFiles": [
-    "my-note.md",
-    "Getting Started/walkthroughs.md",
+    "april-financial-plan/family-budget-review-april.md",
+    "april-financial-plan/financial-learnings-april-2026.md",
+    "april-financial-plan/april-travel-budget.md",
+    "april-financial-plan/april-subscriptions.md",
+    "april-financial-plan/april-food-budget.md",
+    "april-financial-plan/april-financial-plan.md",
+    "april-financial-plan/april-entertainment-budget.md",
+    "sunita.md",
+    "raw/notes/on-creative-process-baldwin.md",
+    "wiki/concepts/aloneness-as-creative-condition.md",
+    "wiki/concepts/infrastructure-safety-correlation.md",
+    "Getting Started/wiki-note.md",
+    "wiki/concepts/leadership-crowd-lab-model.md",
+    "wiki/concepts/literary-scaffolding.md",
+    "wiki/concepts/macro-planner-vs-micro-manager.md",
+    "wiki/concepts/magical-thinking-in-writing.md",
+    "wiki/concepts/mechanised-track-maintenance.md",
+    "wiki/concepts/political-writing-as-art.md",
+    "wiki/concepts/prose-as-windowpane.md",
+    "wiki/concepts/six-rules-of-clear-writing.md",
+    "wiki/concepts/spend-it-all.md",
+    "wiki/concepts/writing-as-compulsion.md",
+    "wiki/concepts/artist-as-truth-teller.md",
+    "raw/articles/Tracks to transformation Modernisation is powering a safer, faster Indian Railways.md",
+    "raw/notes/on-tracks-to-transformation.md",
+    "wiki/topics/indian-railways-modernisation.md",
+    "Clippings",
+    "april-financial-plan",
     "Getting Started/attachments/1776673161755-CleanShot_2026-04-20_at_10.17.53_2x.png",
     "Getting Started/attachments/1776442178567-CleanShot_2026-04-17_at_18.08.40_2x.png",
     "Getting Started/attachments/1776441716304-CleanShot_2026-04-17_at_18.01.19_2x.png",
@@ -247,25 +273,6 @@
     "Getting Started/attachments/1776440668823-CleanShot_2026-04-17_at_17.44.08_2x.png",
     "Getting Started/attachments/1776433913782-CleanShot_2026-04-17_at_15.51.39_2x.png",
     "Getting Started/attachments/1776433419379-CleanShot_2026-04-17_at_15.39.34_2x.png",
-    "Getting Started/attachments/1776432929539-CleanShot_2026-04-17_at_15.35.16_2x.png",
-    "master-tolaria.md",
-    "Getting Started/the-properties-panel.md",
-    "Getting Started/tolaria.md",
-    "Clippings/When good writing starts looking like AI 3.md",
-    "Clippings/When good writing starts looking like AI 2.md",
-    "Clippings/When good writing starts looking like AI 1.md",
-    "Clippings/When good writing starts looking like AI.md",
-    "raw/Transcript Songyee Yoon, Principal Venture Partners.md",
-    "Clippings",
-    "wiki/qa/writing-and-humanity.md",
-    "raw/articles/George Orwell- Politics and the English Language.md",
-    "raw/articles/David Foster Wallace Argumentative Writing.md",
-    "raw/notes/on-write-till-you-drop.md",
-    "raw/notes/on-why-i-write.md",
-    "raw/notes/on-the-it-department-where-ai-goes-to-die.md",
-    "raw/notes/on-politics-and-english-language.md",
-    "raw/notes/on-dfw-argumentative-writing.md",
-    "raw/notes/on-creative-process-baldwin.md",
-    "raw/Inflation or recession? The tug of war in bond markets.md"
+    "Getting Started/attachments/1776432929539-CleanShot_2026-04-17_at_15.35.16_2x.png"
   ]
 }

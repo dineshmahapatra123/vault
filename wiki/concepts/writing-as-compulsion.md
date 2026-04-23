@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Writing as Compulsion
 
 **Definition:** The experience of writing not as a chosen activity but as an unavoidable drive — what Orwell called "the demon," what Dillard describes as a force that "seizes our lives." Writing as compulsion is the recognition that some people write not because they want to, but because they cannot *not* write. The alternative is the suppression of something essential to their nature.

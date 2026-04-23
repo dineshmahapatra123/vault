@@ -1,5 +1,5 @@
 ---
-type: my-note
+type: Note
 source: raw/articles/George Orwell- Politics and the English Language.md
 author-of-source: George Orwell
 date: 2026-04-05

@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Leadership-Crowd-Lab Model
 
 ## Definition
@@ -21,7 +24,7 @@ Traditional top-down or IT-led software rollouts fail to capture the emergent va
 - [[augmentation-vs-automation]]
 
 ## Sources
-- [[the-it-department-where-ai-goes-to-die]] (Economist, 2026)
+- `raw/articles/The IT department Where AI goes to die.md` (Economist, 2026)
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

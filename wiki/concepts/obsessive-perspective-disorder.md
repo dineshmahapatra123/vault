@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Obsessive Perspective Disorder (OPD)
 
 ## Definition
@@ -21,7 +24,7 @@ OPD shows that the difficulty of starting a long project is often a search for a
 - [[literary-scaffolding]] — Tools used to survive the OPD phase.
 
 ## Sources
-- [[that-crafty-feeling]] (Zadie Smith, 2008)
+- `raw/articles/That Crafty Feeling.md` (Zadie Smith, 2008)
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

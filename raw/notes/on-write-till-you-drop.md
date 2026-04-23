@@ -1,5 +1,5 @@
 ---
-type: my-note
+type: Note
 source: raw/articles/Write Till You Drop.md
 author-of-source: Annie Dillard
 date: 2026-04-05

@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Political Writing as Art
 
 **Definition:** The project of writing prose that is both politically purposeful and aesthetically honest — where the drive to expose lies and push the world in a direction does not come at the cost of literary integrity. Orwell called this his central ambition: *"What I have most wanted to do throughout the past ten years is to make political writing into an art."*
@@ -45,3 +48,6 @@ Orwell's framework is a corrective: the best political writing is *dangerous* be
 - [[george-orwell]]
 
 **Sources:** `raw/articles/Why I Write.md` (Orwell, 1946)
+
+## My Take
+> *[Your reaction, opinion, or question here — Dinesh fills this in]*

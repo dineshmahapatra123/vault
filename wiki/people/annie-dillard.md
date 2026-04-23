@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Annie Dillard
 
 **Role/Background:** American author, essayist, and poet (b. 1945). Won the Pulitzer Prize in 1975 for *Pilgrim at Tinker Creek*. One of America's foremost practitioners of the literary essay — rigorous, lyrical, and unsparing about the physical demands of writing.
@@ -9,7 +12,7 @@
 **Notable Pieces:**
 - *Pilgrim at Tinker Creek* (1974) — Pulitzer Prize-winning nature narrative
 - *The Writing Life* (1989) — her most direct account of the writing process
-- [[write-till-you-drop-dillard]] — the essay in raw/articles
+- *Write Till You Drop* (1989) — essay on writing as compulsion and total expenditure; compiled into [[writing-as-compulsion]], [[spend-it-all]]
 - *An American Childhood* (1987) — memoir
 
 **Key Concepts She Embodies:**

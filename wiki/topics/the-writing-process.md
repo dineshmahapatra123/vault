@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # The Writing Process
 
 ## What's the Story
@@ -23,9 +26,9 @@ The diverse and often idiosyncratic methods writers use to trick themselves into
 - [[writing-as-compulsion]] — The underlying drive.
 
 ## Articles on This
-- [[that-crafty-feeling]] (Zadie Smith, 2008)
-- [[write-till-you-drop]] (Annie Dillard)
-- [[why-i-write]] (George Orwell)
+- [[zadie-smith]] — *That Crafty Feeling* (2008): [[macro-planner-vs-micro-manager]], [[obsessive-perspective-disorder]], [[literary-scaffolding]], [[smart-stranger-editing]], [[magical-thinking-in-writing]]
+- [[annie-dillard]] — *Write Till You Drop* (1989): [[writing-as-compulsion]], [[spend-it-all]]
+- [[george-orwell]] — *Why I Write* (1946): [[four-motives-for-writing]], [[political-writing-as-art]], [[prose-as-windowpane]]
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

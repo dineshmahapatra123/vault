@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # AI Organizational Strategy
 
 ## What's the Story
@@ -22,7 +25,7 @@ The central corporate conflict of our time: how to integrate generative AI into 
 - [[leadership-crowd-lab-model]]
 
 ## Articles on This
-- [[the-it-department-where-ai-goes-to-die]] (Source article)
+- [[ethan-mollick]] — *The IT Department: Where AI Goes to Die* (Economist, 2026): [[de-weirding-ai]], [[augmentation-vs-automation]], [[leadership-crowd-lab-model]]
 - [[creative-process-and-capitalism]] (Related debate on creative integrity)
 
 ## My Take

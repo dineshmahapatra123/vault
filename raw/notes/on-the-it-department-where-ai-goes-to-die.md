@@ -1,5 +1,5 @@
 ---
-type: my-note
+type: Note
 source: raw/articles/The IT department Where AI goes to die.md
 author-of-source: Ethan Mollick
 date: 2026-04-05

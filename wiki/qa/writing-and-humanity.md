@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Q: What does writing have to do with humanity?
 1: 
 2: **Filed:** 2026-04-07

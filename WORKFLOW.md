@@ -42,6 +42,14 @@ List every file created and where it was saved.
 
 ## How to Start a New Session
 
+### Automated (recommended) — Claude Code
+Run the `/compile-kb` skill from `.agents/workflows/compile-kb.md`. It reads SCHEMA.md, index.md, and all existing wiki articles automatically, then compiles the source in one step.
+
+```
+/compile-kb raw/articles/your-file.md
+```
+
+### Manual — any LLM session
 Paste these three things to the LLM at the start:
 1. This file (`WORKFLOW.md`)
 2. `wiki/SCHEMA.md`
@@ -65,15 +73,16 @@ You save that file to `wiki/qa/`.
 
 ## Folder Reference
 
-| Folder | Purpose |
-|---|---|
-| `raw/articles/` | Clipped articles, essays, op-eds |
-| `raw/papers/` | Academic PDFs |
-| `raw/repos/` | GitHub READMEs |
-| `raw/assets/` | Images, diagrams |
-| `raw/datasets/` | Data files |
-| `wiki/concepts/` | Core ideas |
-| `wiki/papers/` | Paper summaries |
-| `wiki/people/` | Notable thinkers |
-| `wiki/topics/` | Running threads |
-| `wiki/qa/` | Answered questions |
+| Folder | Status | Purpose |
+|---|---|---|
+| `raw/articles/` | ✅ Active | Clipped articles, essays, op-eds |
+| `raw/notes/` | ✅ Active | Dinesh's own reactions and free-writing |
+| `raw/papers/` | 📁 Planned | Academic PDFs when added |
+| `raw/repos/` | 📁 Planned | GitHub READMEs when added |
+| `raw/assets/` | 📁 Planned | Images and diagrams |
+| `raw/datasets/` | 📁 Planned | Data files when added |
+| `wiki/concepts/` | ✅ Active | Core ideas |
+| `wiki/papers/` | ✅ Active | Paper summaries |
+| `wiki/people/` | ✅ Active | Notable thinkers |
+| `wiki/topics/` | ✅ Active | Running threads |
+| `wiki/qa/` | ✅ Active | Answered questions |

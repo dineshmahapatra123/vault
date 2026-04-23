@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Six Rules of Clear Writing
 
 **Definition:** George Orwell's six practical rules for clear prose, drawn from "Politics and the English Language" (1946). These are not rules of grammar or elegance — they are rules of *honesty*. Their purpose is to prevent language from doing your thinking for you.

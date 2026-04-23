@@ -1,5 +1,5 @@
 ---
-type: my-note
+type: Note
 source: raw/articles/David Foster Wallace Argumentative Writing.md
 author-of-source: David Foster Wallace
 date: 2026-04-05

@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Ethan Mollick
 
 ## Role/Background
@@ -9,7 +12,7 @@ Associate Professor at the Wharton School of the University of Pennsylvania. He 
 - **Leadership-Crowd-Lab Model**: A framework for how organizations should adopt and scale AI.
 
 ## Notable Pieces
-- [[the-it-department-where-ai-goes-to-die]] (Source article, Economist 2026)
+- *The IT Department: Where AI Goes to Die* (Economist, 2026) — compiled into [[de-weirding-ai]], [[augmentation-vs-automation]], [[leadership-crowd-lab-model]]
 - *Co-Intelligence: Living and Working with AI* (2024)
 
 ## Their Lens

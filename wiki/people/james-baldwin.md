@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # James Baldwin
 
 **Role/Background:** American novelist, essayist, playwright, and civil rights activist (1924–1987). Grew up in Harlem, moved to Paris at 24 to escape American racism. Wrote *Go Tell It on the Mountain*, *The Fire Next Time*, *Notes of a Native Son*. One of the most articulate voices of the 20th century on race, identity, and the moral responsibility of art.
@@ -9,7 +12,7 @@
 **Notable Pieces:**
 - *The Fire Next Time* (1963) — on race, religion, and America
 - *Notes of a Native Son* (1955) — essay collection
-- *The Creative Process* (1962) — [[the-creative-process-baldwin]] — his account of the artist's responsibility
+- *The Creative Process* (1962) — his account of the artist's responsibility; compiled into [[artist-as-truth-teller]], [[aloneness-as-creative-condition]]
 - *Giovanni's Room* (1956) — novel
 
 **Key Concepts He Embodies:**

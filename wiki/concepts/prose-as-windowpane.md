@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Prose as Windowpane
 
 **Definition:** Orwell's famous metaphor for good prose style: writing so clear and transparent that you see *through* the words to the thing described, not *at* the words themselves. A windowpane is invisible when it's working properly.
@@ -30,3 +33,6 @@ Orwell admitted that *aesthetic enthusiasm* — the pleasure of words for their 
 - [[george-orwell]]
 
 **Sources:** `raw/articles/Why I Write.md` (Orwell, 1946)
+
+## My Take
+> *[Your reaction, opinion, or question here — Dinesh fills this in]*

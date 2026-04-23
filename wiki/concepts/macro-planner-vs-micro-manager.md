@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Macro-Planner vs. Micro-Manager
 
 ## Definition
@@ -21,7 +24,7 @@ This framework provides a vocabulary for writers to understand their own interna
 - [[writing-as-compulsion]] — The underlying drive shared by both.
 
 ## Sources
-- [[that-crafty-feeling]] (Zadie Smith, 2008)
+- `raw/articles/That Crafty Feeling.md` (Zadie Smith, 2008)
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

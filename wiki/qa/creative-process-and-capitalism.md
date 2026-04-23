@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Q: What does the creative process owe to capitalism — or resist about it?
 
 **Filed:** 2026-04-06

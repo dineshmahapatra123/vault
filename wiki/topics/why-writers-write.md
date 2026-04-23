@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Why Writers Write
 
 **What's the Story:** A cross-cutting thread through five essays by four major writers — Orwell (twice), Dillard, Baldwin, and Wallace — each asking the same question from a different angle: what actually drives a person to write, and what is writing *for*? The answers converge in surprising places and diverge in equally revealing ones.

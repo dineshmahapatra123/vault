@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Literary Scaffolding
 
 ## Definition
@@ -21,7 +24,7 @@ Scaffolding helps manage the "despair" of an endless, unmarked journey. It provi
 - [[smart-stranger-editing]] — When the "smart stranger" would likely suggest removing it.
 
 ## Sources
-- [[that-crafty-feeling]] (Zadie Smith, 2008)
+- `raw/articles/That Crafty Feeling.md` (Zadie Smith, 2008)
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

@@ -59,7 +59,7 @@ Required sections:
 - **Timeline**: Major developments (if relevant)
 - **Key Players**: [[people]] involved
 - **Related Concepts**: [[concepts]] at play
-- **Articles on This**: [[links]] to wiki/papers or wiki/articles that cover it
+- **Articles on This**: [[links]] to wiki/papers, wiki/concepts, wiki/people, or wiki/topics that cover it
 - **My Take**: *(Dinesh writes this — leave blank with placeholder)*
 
 ### qa/
@@ -85,6 +85,15 @@ Required sections:
 - Treat notes as a source, exactly like articles or papers
 - When compiling a note, Dinesh is the author — attribute ideas to him, not external sources
 - Notes can be compiled into `wiki/qa/` or `wiki/topics/` articles
+
+## Frontmatter Rule
+Every wiki article must start with:
+```
+---
+type: Wiki Note
+---
+```
+This is what distinguishes wiki articles from regular notes in Tolaria's sidebar. Reaction notes in `raw/notes/` use `type: Note` — they are Dinesh's voice, not compiled KB articles.
 
 ## My Take Placeholder
 When the LLM creates any article, add this at the end:

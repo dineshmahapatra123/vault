@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Magical Thinking in Writing
 
 ## Definition
@@ -21,7 +24,7 @@ This psychological state is what makes the middle of a long project possible. It
 - [[macro-planner-vs-micro-manager]] — The Micro-Manager relies on this state to find the path forward.
 
 ## Sources
-- [[that-crafty-feeling]] (Zadie Smith, 2008)
+- `raw/articles/That Crafty Feeling.md` (Zadie Smith, 2008)
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

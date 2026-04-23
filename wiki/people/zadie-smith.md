@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Zadie Smith
 
 ## Role/Background
@@ -5,8 +8,8 @@ Zadie Smith (born 1975) is an acclaimed British-Jamaican novelist, essayist, and
 
 ## Known For
 - **Literary Excellence**: Multiple award-winning novels including *White Teeth*, *The Autograph Man*, and *On Beauty*.
-- **The "Micro Manager" Approach**: Her self-described methodical, sentence-by-sentence approach to novel construction, detailed in her essay [[that-crafty-feeling]].
-- **Craft Criticism**: One of the few contemporary novelists who writes with "quasi-honest" transparency about thebanal and fraudulent feelings associated with literary craft.
+- **The "Micro Manager" Approach**: Her self-described methodical, sentence-by-sentence approach to novel construction, detailed in her essay *That Crafty Feeling* (2008); compiled into [[macro-planner-vs-micro-manager]].
+- **Craft Criticism**: One of the few contemporary novelists who writes with "quasi-honest" transparency about the banal and fraudulent feelings associated with literary craft.
 
 ## Notable Pieces
 - [[the-writing-process]] — Her definitive lecture (originally titled *"That Crafty Feeling"*) on the psychological stages of writing a novel.

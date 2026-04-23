@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Artist as Truth-Teller
 
 **Definition:** The idea — most powerfully articulated by James Baldwin — that the artist's primary social function is to tell truths that society actively avoids facing. The artist does not comfort or entertain as a primary purpose; they *illuminate the darkness* of human experience that most people, out of necessity, look away from: aloneness, suffering, love, death.

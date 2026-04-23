@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Spend It All
 
 **Definition:** Annie Dillard's core creative principle: give everything you have, right now, without holding anything back for later. Do not hoard a good idea, a strong image, or a compelling sentence for a "better" place in the book, or a future book. Spend it all immediately. Something better will arise to replace it.

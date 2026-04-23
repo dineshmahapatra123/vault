@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # De-weirding AI
 
 ## Definition
@@ -21,7 +24,7 @@ When organizations "de-weird" AI, they squander its transformative potential. It
 - [[language-and-political-corruption]] (via "workslop" and vague corporate prose)
 
 ## Sources
-- [[the-it-department-where-ai-goes-to-die]] (Economist, 2026)
+- `raw/articles/The IT department Where AI goes to die.md` (Economist, 2026)
 
 ## My Take
 > *[Your reaction, opinion, or question here — Dinesh fills this in]*

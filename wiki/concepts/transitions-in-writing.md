@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Transitions in Writing
 
 **Definition:** The connective tissue between sentences, paragraphs, and sections — words and phrases that show the reader how two ideas are related, how the argument has moved, and where it is going. David Foster Wallace argued that transitions are perhaps the most neglected and most important craft element in argumentative writing.

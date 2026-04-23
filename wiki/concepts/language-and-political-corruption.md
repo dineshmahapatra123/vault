@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Language and Political Corruption
 
 **Definition:** The thesis — most fully developed by George Orwell in "Politics and the English Language" (1946) — that vague, abstract, and euphemistic language is not merely bad style but a *political instrument*. When language becomes imprecise, it becomes easier to defend the indefensible, conceal atrocities, and prevent clear thought. The decay of language and the decay of politics are mutually reinforcing.

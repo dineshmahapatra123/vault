@@ -27,9 +27,12 @@ One raw file → multiple wiki articles (people, concepts, topics, papers).
    - If a concept already exists in the wiki, UPDATE it with new evidence — don't duplicate
 
 4. Write each wiki article following SCHEMA.md exactly:
-   - Use `[[WikiLink]]` format for ALL cross-references
+   - Every wiki article must start with frontmatter: `---\ntype: Wiki Note\n---`
+   - Use `[[WikiLink]]` format for cross-references to OTHER WIKI ARTICLES ONLY
    - Link to at least 2 other wiki articles per new article
    - Check index.md — link to articles that already exist wherever relevant
+   - In **Sources** sections: use plain text `` `raw/articles/Filename.md` `` — NEVER wikilinks to raw files
+   - In **Notable Pieces** (people articles): reference source essays/books as plain text, then link to the compiled wiki articles that came from them (e.g., *Why I Write* (1946) — compiled into [[four-motives-for-writing]])
    - End every article with: `## My Take` followed by `> *[Your reaction, opinion, or question here — Dinesh fills this in]*`
    - Never write content in the My Take section
 
@@ -37,23 +40,20 @@ One raw file → multiple wiki articles (people, concepts, topics, papers).
    - Add every new article under the correct heading (Concepts / Papers / People / Topics / Q&A)
    - Update the Statistics block: increment article count, update date, update source count
 
-6. Create a blank note template in `raw/notes/`:
+6. Create a blank reaction note in `raw/notes/`:
    - Filename: `on-[source-filename-slug].md`
+   - Use `type: Note` (NOT Wiki Note) — reaction notes are Dinesh's own writing, not compiled KB articles
    - Content:
      ```
      ---
-     type: my-note
-     source: raw/[folder]/[filename]
-     author-of-source: [author name]
-     date: [today's date]
+     type: Note
      ---
 
-     # My Reaction: [Source Title]
+     # On: [Source Title]
 
-     *Write freely below. No structure needed. This is your voice.*
+     *Reaction note — Dinesh writes here*
 
-     ---
-
+     > *[Your reaction to the article — add your thoughts here]*
      ```
 
 7. Report to the user:

@@ -1,5 +1,5 @@
 ---
-type: my-note
+type: Note
 source: raw/articles/Why I Write.md
 author-of-source: George Orwell
 date: 2026-04-05

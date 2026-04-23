@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # Four Motives for Writing
 
 **Definition:** George Orwell's framework for understanding *why* writers write, drawn from his 1946 essay "Why I Write." He identifies four distinct psychological impulses that drive prose writing — present in all writers, but in different proportions.
@@ -40,3 +43,6 @@ Orwell's lifelong project was to *reconcile* these: to make political writing th
 - [[george-orwell]] — who created this framework from autobiographical reflection
 
 **Sources:** `raw/articles/Why I Write.md` (Orwell, 1946)
+
+## My Take
+> *[Your reaction, opinion, or question here — Dinesh fills this in]*

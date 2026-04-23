@@ -1,3 +1,6 @@
+---
+type: Wiki Note
+---
 # David Foster Wallace
 
 **Role/Background:** American novelist, essayist, and short story writer (1962–2008). Best known for *Infinite Jest* (1996), one of the most ambitious American novels of the 20th century. Also wrote some of the most celebrated essays and journalism of his era, collected in *Consider the Lobster* and *A Supposedly Fun Thing I'll Never Do Again*. Taught creative writing at Illinois State and Pomona College.
@@ -10,7 +13,7 @@
 - *Infinite Jest* (1996) — novel
 - "Tense Present" (2001) — on language, usage, and democracy (*Harper's*)
 - *Consider the Lobster and Other Essays* (2005) — essay collection
-- [[dfw-argumentative-writing]] — interview excerpt on structure and transitions
+- *Argumentative Writing* (interview excerpt) — on structure and transitions; compiled into [[transitions-in-writing]]
 
 **Key Concepts He Embodies:**
 - [[transitions-in-writing]]
