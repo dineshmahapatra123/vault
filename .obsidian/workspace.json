@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "8bc3e0a3effd9f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ad433df968f604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abcc1042b266e365",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "846b9228b0e6df97",
+    "type": "split",
+    "children": [
+      {
+        "id": "64847e2641f630c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae64ac52703d6f77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29c547455e2ca0d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "28f92c00cff0d34a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e122a5871d3a7439",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9789d40fff1c9f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1271b83ab14722ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/Inflation or recession? The tug of war in bond markets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Inflation or recession? The tug of war in bond markets"
+            }
+          },
+          {
+            "id": "22eaa66fefcf0240",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/Inflation or recession? The tug of war in bond markets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Inflation or recession? The tug of war in bond markets"
+            }
+          },
+          {
+            "id": "d3ed43bc9feb35d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "162ca5521f91d533",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4bc6b7a4d916594a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/Inflation or recession? The tug of war in bond markets.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Inflation or recession? The tug of war in bond markets"
+            }
+          },
+          {
+            "id": "64905bad67795892",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3306aef37647ed74",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-brain",
+              "title": "ChatGPT"
+            }
+          },
+          {
+            "id": "a82dd3c6366ab889",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-gemini",
+              "state": {},
+              "icon": "lucide-sparkles",
+              "title": "Gemini"
+            }
+          },
+          {
+            "id": "240142e23e2d1c96",
+            "type": "leaf",
+            "state": {
+              "type": "terminal-view",
+              "state": {},
+              "icon": "terminal",
+              "title": "Terminal"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-custom-frames:Open NotebookLM": false,
+      "obsidian-custom-frames:Open Gemini": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "surfing:surfing-bookmark-manager": false,
+      "obsidian42-brat:BRAT": false,
+      "lean-terminal:Toggle Terminal": false
+    }
+  },
+  "active": "ae64ac52703d6f77",
+  "lastOpenFiles": [
+    "Clippings/When good writing starts looking like AI 3.md",
+    "Clippings/When good writing starts looking like AI 2.md",
+    "Clippings/When good writing starts looking like AI 1.md",
+    "Clippings/When good writing starts looking like AI.md",
+    "raw/Transcript Songyee Yoon, Principal Venture Partners.md",
+    "Clippings",
+    "wiki/qa/writing-and-humanity.md",
+    "raw/articles/George Orwell- Politics and the English Language.md",
+    "raw/articles/David Foster Wallace Argumentative Writing.md",
+    "raw/notes/on-write-till-you-drop.md",
+    "raw/notes/on-why-i-write.md",
+    "raw/notes/on-the-it-department-where-ai-goes-to-die.md",
+    "raw/notes/on-politics-and-english-language.md",
+    "raw/notes/on-dfw-argumentative-writing.md",
+    "raw/notes/on-creative-process-baldwin.md",
+    "raw/Inflation or recession? The tug of war in bond markets.md"
+  ]
+}

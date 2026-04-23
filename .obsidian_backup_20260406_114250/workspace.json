@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f3d68f30082c0a39",
+    "type": "split",
+    "children": [
+      {
+        "id": "050a24581b2269f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51fcce7601ead8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/Inflation or recession? The tug of war in bond markets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inflation or recession? The tug of war in bond markets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2e1ccf33e2c988a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8fd356eac598dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6ae3ca5eb42f696",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54a0eba24f349a93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b2fada7f1158a9dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "44ca0921861f5869",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e97de4aa9f084dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8c2e5c692c1ea8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "30b32fe67cf5da20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "597533f9986058d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b691d1a5bf05b5b6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c06c9e289e7a51e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "51fcce7601ead8e9",
+  "lastOpenFiles": [
+    "PhD_Replication_Guide.md",
+    "raw/articles/The IT department Where AI goes to die.md",
+    "raw/Inflation or recession? The tug of war in bond markets.md",
+    "raw/notes/on-that-crafty-feeling.md",
+    "wiki/topics/the-writing-process.md",
+    "wiki/concepts/magical-thinking-in-writing.md",
+    "wiki/concepts/smart-stranger-editing.md",
+    "wiki/concepts/literary-scaffolding.md",
+    "wiki/concepts/obsessive-perspective-disorder.md",
+    "wiki/concepts/macro-planner-vs-micro-manager.md",
+    "wiki/people/zadie-smith.md",
+    "raw/That Crafty Feeling.md",
+    "raw/articles/That Crafty Feeling.md",
+    "raw/notes/on-the-it-department-where-ai-goes-to-die.md",
+    "wiki/topics/ai-organizational-strategy.md",
+    "wiki/concepts/leadership-crowd-lab-model.md",
+    "wiki/concepts/augmentation-vs-automation.md",
+    "wiki/concepts/de-weirding-ai.md",
+    "wiki/people/ethan-mollick.md",
+    "raw/notes/on-the-tumbling-rupee.md",
+    "wiki/topics/indian-rupee-volatility.md",
+    "wiki/concepts/balance-of-payments-1991.md",
+    "wiki/concepts/rupee-fetishization.md",
+    "wiki/people/narendra-modi.md",
+    "wiki/concepts/artist-as-truth-teller.md",
+    "raw/articles/The tumbling rupee is a big problem for Narendra Modi.md",
+    "Clippings",
+    "Unconfirmed 257480.crdownload",
+    "raw/notes",
+    "raw/repos",
+    "raw/papers",
+    "raw/datasets",
+    "raw/assets",
+    "raw/articles",
+    "raw",
+    "wiki/topics"
+  ]
+}
