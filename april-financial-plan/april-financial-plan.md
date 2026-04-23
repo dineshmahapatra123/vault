@@ -11,7 +11,7 @@ has:
   - "[[april-subscriptions]]"
   - "[[financial-learnings-april-2026]]"
   - "[[family-budget-review-april]]"
-Date: 2026-04-01
+Date:  
 ---
 # April Financial Plan
 
