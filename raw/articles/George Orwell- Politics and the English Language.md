@@ -1,3 +1,7 @@
+---
+type: Note
+Status: Done
+---
 [Index](https://orwell.ru/) > > > > > E-text
 
 ---

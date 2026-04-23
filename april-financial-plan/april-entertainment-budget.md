@@ -17,8 +17,8 @@ Track entertainment spending for April — movies, outings, events, games, anyth
 
 ### Movies & Shows
 | Date | What | Amount |
-|---|---|---|
-| | | |
+| ---- | ---- | ------ |
+|      |      |        |
 
 ### Outings & Activities
 | Date | What | With whom | Amount |

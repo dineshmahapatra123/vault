@@ -1,3 +1,7 @@
+---
+type: Note
+Status: In progress
+---
 In December 2004, Bryan A. Garner, who had already struck up a friendship with David Foster Wallace, started interviewing state and federal judges as well as a few key writers. With over a hundred interviews under his belt by January 2006, he called David to suggest they do an interview. So on February 3, 2006, the two finally got together in Los Angeles for an extensive conversation on writing and life that offers a penetrating look into our collective psyche. Their conversation has been captured in [Quack This Way: David Foster Wallace & Bryan A. Garner Talk Language and Writing](https://www.amazon.com/gp/product/0991118103/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=farnamstreet-20&creative=9325&linkCode=as2&creativeASIN=0991118103&linkId=5e68a2b11724ff8fdd021606c0b6c002).
 
 Very few things get me more excited than reading one smart person interview another. I mean, we’re not talking TV puff pieces here; we’re talking outright depth with an incisive look at culture.
