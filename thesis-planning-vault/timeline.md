@@ -1,0 +1,23 @@
+---
+type: Note
+belongs_to: "[[thesis-planning-vault]]"
+---
+# Timeline
+
+| Name | Dates | Status | Notes | Remarks |
+|---|---|---|---|---|
+| Chapter 1: Introduction Draft | | Upcoming | | |
+| Chapter 2 Draft | April 27, 2026 → May 6, 2026 | Current | [April 27](https://www.notion.so/April-27-2ac06c28923a80369153c25c8a1f980b?pvs=21) | |
+| Chapter 3 Draft | May 7, 2026 → May 26, 2026 | Upcoming | | |
+| Chapter 4 Draft | May 27, 2026 → June 15, 2026 | Upcoming | | |
+| Chapter 5 Draft | June 16, 2026 → July 5, 2026 | Upcoming | | |
+| Chapter 6 Draft | July 6, 2026 → July 25, 2026 | Upcoming | | |
+| Conclusion | July 26, 2026 → August 8, 2026 | Upcoming | | |
+| Chapter 1: Introduction Draft | August 9, 2026 → August 20, 2026 | Upcoming | | |
+| Feedback | | Upcoming | | |
+| Citations | | Upcoming | | |
+| Style & formatting | | Upcoming | | |
+| Presentation & defense | | Upcoming | | |
+| Application to graduate | | Upcoming | | |
+| Thesis due | | Upcoming | | |
+| Graduation!!! 🎓 | | Upcoming | | |
