@@ -5,6 +5,7 @@ related_to:
   - "[[sunita]]"
   - "[[father]]"
 date: 2026-04-30
+_width: wide
 ---
 # Family Budget Review — April 2026
 
